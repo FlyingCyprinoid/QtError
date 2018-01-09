@@ -1,0 +1,4 @@
+Project ERROR: Missing CMake tests
+CMAKE_MODULE_TESTS = '-'
+
+as the first line of ".qmake.conf" file.
